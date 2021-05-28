@@ -18,7 +18,8 @@ body {
 }
 .header-right a {
   justify-self: center;
-  color:gray solid;
+  color:black;
+  background-color:whitesmoke;
   text-align: center;
   text-decoration: none;
   padding: 12px;

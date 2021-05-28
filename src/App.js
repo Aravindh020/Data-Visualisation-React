@@ -58,7 +58,7 @@ function App() {
 				<GlobalStyles />
 				<StyledApp>
 				<h1>Data Visualisation Dashboard <button onClick={() => themeToggler()}>Change Theme</button></h1>
-				  <h4 className="heading">Basic data visualisation dashboard for the given data using a ReactJS  </h4>
+				  <h4 className="heading">Basic data visualisation dashboard for the given data using ReactJS </h4>
 				<Router>
   				<div className="header-right">
   				  <Link to='/'> Home</Link>

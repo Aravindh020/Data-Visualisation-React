@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: 'Roboto';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: antiquewhite;
+}
+
+.heading{
+  margin: 40px;
+}
+.table{
+  height: 420px;
+  width: 95%;
+}
+.app{
+  margin: 40px;
+}
+.header-right a {
+  justify-self: center;
+  color:gray solid;
+  text-align: center;
+  text-decoration: none;
+  padding: 12px;
+  font-size: 18px;
+  line-height: 25px;
+  position: relative;
+  width: max-content;
+}
+
+.header-right {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+}
+
+.header-right a:hover {
+  border-bottom: 1.5px gray solid;
+border-right: 1.5px gray solid;  }
+.ae-zone {
+  background-color: '#e57373';
+  font: "white";
+}
